@@ -28,3 +28,6 @@ Run the application:
 
     Bash
         python app.py
+
+
+AI-Use Disclosure: AI assistants were used to brainstorm the concept, structure the Python backend logic, and design the Tkinter GUI.
